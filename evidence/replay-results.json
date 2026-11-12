@@ -1,0 +1,132 @@
+[
+  {
+    "application_sha256": "8bfce6857fd2c6e17aa30a94990660190d6dce53668df3b576ea22b76acc323c",
+    "file": "camera-2.bin",
+    "records": 491,
+    "rotation_serials": [
+      78,
+      239,
+      404
+    ],
+    "rotations": 3,
+    "nonempty_mock_sdk_captures": 4,
+    "queue_peak": 8,
+    "queue_sent": 24,
+    "queue_released": 0,
+    "queue_errors": 0,
+    "queue_fallbacks": 3,
+    "seeds": [
+      {
+        "start": 1,
+        "serial": 1
+      },
+      {
+        "start": 2,
+        "serial": 111
+      },
+      {
+        "start": 3,
+        "serial": 276
+      },
+      {
+        "start": 4,
+        "serial": 439
+      }
+    ]
+  },
+  {
+    "application_sha256": "8bfce6857fd2c6e17aa30a94990660190d6dce53668df3b576ea22b76acc323c",
+    "file": "camera-3.bin",
+    "records": 386,
+    "rotation_serials": [
+      88,
+      193,
+      318
+    ],
+    "rotations": 3,
+    "nonempty_mock_sdk_captures": 4,
+    "queue_peak": 8,
+    "queue_sent": 24,
+    "queue_released": 0,
+    "queue_errors": 0,
+    "queue_fallbacks": 3,
+    "seeds": [
+      {
+        "start": 1,
+        "serial": 1
+      },
+      {
+        "start": 2,
+        "serial": 106
+      },
+      {
+        "start": 3,
+        "serial": 216
+      },
+      {
+        "start": 4,
+        "serial": 335
+      }
+    ]
+  },
+  {
+    "application_sha256": "8bfce6857fd2c6e17aa30a94990660190d6dce53668df3b576ea22b76acc323c",
+    "file": "camera-4.bin",
+    "records": 326,
+    "rotation_serials": [
+      73,
+      213
+    ],
+    "rotations": 2,
+    "nonempty_mock_sdk_captures": 3,
+    "queue_peak": 8,
+    "queue_sent": 16,
+    "queue_released": 0,
+    "queue_errors": 0,
+    "queue_fallbacks": 2,
+    "seeds": [
+      {
+        "start": 1,
+        "serial": 1
+      },
+      {
+        "start": 2,
+        "serial": 91
+      },
+      {
+        "start": 3,
+        "serial": 238
+      }
+    ]
+  },
+  {
+    "application_sha256": "8bfce6857fd2c6e17aa30a94990660190d6dce53668df3b576ea22b76acc323c",
+    "file": "camera-5.bin",
+    "records": 352,
+    "rotation_serials": [
+      105,
+      238
+    ],
+    "rotations": 2,
+    "nonempty_mock_sdk_captures": 3,
+    "queue_peak": 8,
+    "queue_sent": 16,
+    "queue_released": 0,
+    "queue_errors": 0,
+    "queue_fallbacks": 2,
+    "seeds": [
+      {
+        "start": 1,
+        "serial": 1
+      },
+      {
+        "start": 2,
+        "serial": 132
+      },
+      {
+        "start": 3,
+        "serial": 264
+      }
+    ]
+  }
+]

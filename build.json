@@ -1,0 +1,36 @@
+{
+  "status": "offline candidate; not installed",
+  "monitor_only": false,
+  "size": 332782,
+  "sha256": "8bfce6857fd2c6e17aa30a94990660190d6dce53668df3b576ea22b76acc323c",
+  "input_sha256": "d4919df3e0a72cd8cb9dcd57e6c2e75d7e03391c0e655286a015bc6532111d44",
+  "code_bytes": 4814,
+  "functions": {
+    "mark_motion": "0x60141",
+    "mark_flush": "0x60321",
+    "mark_handoff": "0x603f9",
+    "mark_down": "0x606fd",
+    "mark_rotate": "0x607fd",
+    "mark_continue": "0x60891",
+    "mark_copy": "0x60911",
+    "mark_camera": "0x60941",
+    "mark_frame": "0x60ca1",
+    "mark_up": "0x60fdd",
+    "mark_image": "0x61335"
+  },
+  "state_address": "0x7cd80",
+  "state_bytes": 377744,
+  "program_headers": 9,
+  "new_rx": "0x60000",
+  "retail_sdk_modified": false,
+  "hooks": [
+    "0x4c1e4",
+    "0x4dcf0",
+    "0x4e084",
+    "0x4e0ca",
+    "0x4e140",
+    "0x4c87c",
+    "0x4cc54",
+    "0x4c0ec"
+  ]
+}

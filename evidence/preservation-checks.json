@@ -1,0 +1,22 @@
+[
+  {
+    "check": "plain white region preserves acquisition without restarting",
+    "passed": true
+  },
+  {
+    "check": "high contrast mild defocus preserves acquisition",
+    "passed": true
+  },
+  {
+    "check": "unconfirmed focus dip preserves every frame",
+    "passed": true
+  },
+  {
+    "check": "sustained defocus completes and restarts through native handlers",
+    "passed": true
+  },
+  {
+    "check": "early uncertain frames survive before lift is armed",
+    "passed": true
+  }
+]

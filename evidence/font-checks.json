@@ -1,0 +1,434 @@
+[
+  {
+    "font": "Helvetica",
+    "size": 24,
+    "ink": 0,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 24,
+    "ink": 0,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 24,
+    "ink": 0,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 24,
+    "ink": 150,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 24,
+    "ink": 150,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 24,
+    "ink": 150,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 36,
+    "ink": 0,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 36,
+    "ink": 0,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 36,
+    "ink": 0,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 36,
+    "ink": 150,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 36,
+    "ink": 150,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 36,
+    "ink": 150,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 48,
+    "ink": 0,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 48,
+    "ink": 0,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 48,
+    "ink": 0,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 48,
+    "ink": 150,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 48,
+    "ink": 150,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Helvetica",
+    "size": 48,
+    "ink": 150,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 24,
+    "ink": 0,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 24,
+    "ink": 0,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 24,
+    "ink": 0,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 24,
+    "ink": 150,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 24,
+    "ink": 150,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 24,
+    "ink": 150,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 36,
+    "ink": 0,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 36,
+    "ink": 0,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 36,
+    "ink": 0,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 36,
+    "ink": 150,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 36,
+    "ink": 150,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 36,
+    "ink": 150,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 48,
+    "ink": 0,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 48,
+    "ink": 0,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 48,
+    "ink": 0,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 48,
+    "ink": 150,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 48,
+    "ink": 150,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Times",
+    "size": 48,
+    "ink": 150,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 24,
+    "ink": 0,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 24,
+    "ink": 0,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 24,
+    "ink": 0,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 24,
+    "ink": 150,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 24,
+    "ink": 150,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 24,
+    "ink": 150,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 36,
+    "ink": 0,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 36,
+    "ink": 0,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 36,
+    "ink": 0,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 36,
+    "ink": 150,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 36,
+    "ink": 150,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 36,
+    "ink": 150,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 48,
+    "ink": 0,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 48,
+    "ink": 0,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 48,
+    "ink": 0,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 48,
+    "ink": 150,
+    "text": "Abc",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 48,
+    "ink": 150,
+    "text": "ill",
+    "armed": true,
+    "lift_detected": true
+  },
+  {
+    "font": "Courier",
+    "size": 48,
+    "ink": 150,
+    "text": "WAV",
+    "armed": true,
+    "lift_detected": true
+  }
+]

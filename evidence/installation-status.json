@@ -1,0 +1,27 @@
+{
+  "current_application_sha256": "8bfce6857fd2c6e17aa30a94990660190d6dce53668df3b576ea22b76acc323c",
+  "previous_application_sha256": "105047e2adf59260f86f9022f251b007e7014f6ce6200969e2d943061f5519ab",
+  "payload_bytes": 332782,
+  "transfer_crc32": "32d3e656",
+  "ota_delivery_interval_ms": 40,
+  "transfer_crc_verified": true,
+  "replacement_and_reboot_scheduled": true,
+  "post_reboot_read_only_bluetooth_preflight_passed": true,
+  "runtime_camera_tag_verified": false,
+  "physical_buffer_activation_verified": false,
+  "complete_raw_lines_verified": false,
+  "complete_app_text_verified": false,
+  "capture_consistency_verified": false,
+  "software_checks_passed": 110,
+  "recorded_camera_replays_passed": 4,
+  "database_image_id_before_test": 208,
+  "status": "User confirms current installed 8bf correction works. Exact build retained unchanged. Fresh raw diagnostics and complete app text have not been independently inspected after this confirmation; broader consistency is not established.",
+  "frame_queue_scope": "Short new-line startup FIFO; camera still pauses during native completion.",
+  "fresh_evidence_expected": {
+    "camera_tag": "CQB2",
+    "queue_version": 2,
+    "pool_nodes_observed_up_to_ten": "Read from new queue report; actual pool size not yet established."
+  },
+  "user_reported_working": true,
+  "user_acceptance_quote": "great it works"
+}

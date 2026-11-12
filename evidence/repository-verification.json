@@ -1,0 +1,19 @@
+{
+  "application_sha256": "8bfce6857fd2c6e17aa30a94990660190d6dce53668df3b576ea22b76acc323c",
+  "checks": {
+    "arm": 17,
+    "preservation": 5,
+    "camera": 8,
+    "queue": 11,
+    "motion": 15,
+    "fonts": 54
+  },
+  "total": 110,
+  "hardware_contacted": false,
+  "historical_evidence_modified": false,
+  "exact_installed_source_preserved": true,
+  "standalone_rebuild_matches_installed_payload": true,
+  "swift_uploader_compiled": true,
+  "uploader_argument_checks": 5,
+  "uploader_checks_contacted_hardware": false
+}

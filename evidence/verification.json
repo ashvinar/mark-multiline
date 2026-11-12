@@ -1,0 +1,16 @@
+{
+  "application_sha256": "8bfce6857fd2c6e17aa30a94990660190d6dce53668df3b576ea22b76acc323c",
+  "checks": {
+    "arm": 17,
+    "preservation": 5,
+    "camera": 8,
+    "queue": 11,
+    "motion": 15,
+    "synthetic_fonts": 54
+  },
+  "total": 110,
+  "recorded_camera_replays": 4,
+  "hardware_installed": true,
+  "hardware_verified": false,
+  "post_reboot_read_only_reconnect": true
+}

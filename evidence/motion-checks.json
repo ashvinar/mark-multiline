@@ -1,0 +1,62 @@
+[
+  {
+    "check": "translation -4,0 with exposure change and static border",
+    "passed": true
+  },
+  {
+    "check": "translation -2,0 with exposure change and static border",
+    "passed": true
+  },
+  {
+    "check": "translation -1,0 with exposure change and static border",
+    "passed": true
+  },
+  {
+    "check": "translation 1,0 with exposure change and static border",
+    "passed": true
+  },
+  {
+    "check": "translation 2,0 with exposure change and static border",
+    "passed": true
+  },
+  {
+    "check": "translation 4,0 with exposure change and static border",
+    "passed": true
+  },
+  {
+    "check": "translation -2,-1 with exposure change and static border",
+    "passed": true
+  },
+  {
+    "check": "translation 2,1 with exposure change and static border",
+    "passed": true
+  },
+  {
+    "check": "translation 0,-2 with exposure change and static border",
+    "passed": true
+  },
+  {
+    "check": "translation 0,2 with exposure change and static border",
+    "passed": true
+  },
+  {
+    "check": "stationary detail does not claim movement",
+    "passed": true
+  },
+  {
+    "check": "sharp stationary border alone cannot claim text movement",
+    "passed": true
+  },
+  {
+    "check": "featureless exposure change cannot claim movement",
+    "passed": true
+  },
+  {
+    "check": "unrelated images do not produce a confident displacement",
+    "passed": true
+  },
+  {
+    "check": "well-matched low-contrast detail can establish movement",
+    "passed": true
+  }
+]

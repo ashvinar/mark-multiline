@@ -1,0 +1,70 @@
+[
+  {
+    "check": "complete existing key-up, asynchronous copy, key-down sequence",
+    "passed": true
+  },
+  {
+    "check": "physical release during queued completion cancels restart without duplicate capture",
+    "passed": true
+  },
+  {
+    "check": "stale rotation before key-up cannot resurrect capture",
+    "passed": true
+  },
+  {
+    "check": "rotation queue failure preserves queue ownership and records error",
+    "passed": true
+  },
+  {
+    "check": "continuation queue failure preserves queue ownership and records error",
+    "passed": true
+  },
+  {
+    "check": "release failure preserves queue ownership and records error",
+    "passed": true
+  },
+  {
+    "check": "copy failure preserves queue ownership and records error",
+    "passed": true
+  },
+  {
+    "check": "press failure preserves queue ownership and records error",
+    "passed": true
+  },
+  {
+    "check": "completion allocation failure preserves queue ownership and records error",
+    "passed": true
+  },
+  {
+    "check": "brief blank does not finish a line",
+    "passed": true
+  },
+  {
+    "check": "blank startup emits no empty capture cycle",
+    "passed": true
+  },
+  {
+    "check": "recorded six-pass contact timing rejects transient focus flashes",
+    "passed": true
+  },
+  {
+    "check": "original completion worker waits for 20ms asynchronous stop",
+    "passed": true
+  },
+  {
+    "check": "original completion worker waits for 180ms asynchronous stop",
+    "passed": true
+  },
+  {
+    "check": "original completion worker waits for 220ms asynchronous stop",
+    "passed": true
+  },
+  {
+    "check": "unknown camera layout passes to existing SDK",
+    "passed": true
+  },
+  {
+    "check": "whole image reaches original encoder without width cutting",
+    "passed": true
+  }
+]

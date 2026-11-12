@@ -1,0 +1,46 @@
+[
+  {
+    "check": "native buffers remain owned and pixel-exact until FIFO startup delivery",
+    "passed": true
+  },
+  {
+    "check": "capacity fallback delivers every buffered frame without overwriting or starving the pool",
+    "passed": true
+  },
+  {
+    "check": "physical release flushes queued text before native stop and never restarts",
+    "passed": true
+  },
+  {
+    "check": "SDK rejection returns each retained frame exactly once and reports data loss",
+    "passed": true
+  },
+  {
+    "check": "release before camera handoff cancels stale input without leaking or double-freeing",
+    "passed": true
+  },
+  {
+    "check": "queue reserves camera-pool headroom even on a smaller native pool",
+    "passed": true
+  },
+  {
+    "check": "confirmed movement admits a fainter next line and relearns its contrast",
+    "passed": true
+  },
+  {
+    "check": "large native pool retains a bounded queue instead of disabling it",
+    "passed": true
+  },
+  {
+    "check": "new-line input rechecks a pool that was unavailable during key-down",
+    "passed": true
+  },
+  {
+    "check": "two-slot native pool retains one frame while reserving one native slot",
+    "passed": true
+  },
+  {
+    "check": "startup quality guard remains active even if native buffering is unavailable",
+    "passed": true
+  }
+]
